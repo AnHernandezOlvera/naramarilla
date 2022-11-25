@@ -17,7 +17,7 @@ Si terminaste la primera parte, deberas implementar la segunda pantalla del prot
 ### Listado de juguetes
 
 ```js
-const artistas = [
+const toys = [
         {
             "name": "Woody" ,
             "isVillain": false,
