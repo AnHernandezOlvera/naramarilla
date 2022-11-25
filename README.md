@@ -14,7 +14,7 @@ Si terminaste la primera parte, deberas implementar la segunda pantalla del prot
 
 - Al dar click en el botón `CHANGE POSITION` se deberá cambiar la posición de los personajes, los de la izquierda a la derecha y viceversa
 
-### Listado de jueguetes
+### Listado de juguetes
 
 ```js
 const artistas = [
